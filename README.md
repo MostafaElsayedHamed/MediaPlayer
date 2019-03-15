@@ -13,7 +13,9 @@ media Player Task
   * open android studio on top left open File -> New -> Project from version Control -> Git
   * test if connection successful then clone.
 * select Run -> Run App from topbar.
-
+* select your connected android device or create new virtua device if there is no available one.
+# Notes
+* if this first time to open android studio you will find this choese in first screen Import Project or Project from version Control.
 
 # Built With 
 * [ExoPlayer](https://developer.android.com/guide/topics/media/exoplayer) 
